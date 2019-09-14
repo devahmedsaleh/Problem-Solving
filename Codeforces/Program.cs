@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            WordCapitalization.Run();
+            Watermelon.Run();
         }
     }
 }
