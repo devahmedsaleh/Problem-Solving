@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            NextRound.Run();
+            ChatRoom.Run();
         }
     }
 }
